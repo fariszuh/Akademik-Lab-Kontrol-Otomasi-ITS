@@ -1,0 +1,18 @@
+Sudah saya revisi dan saya cek untuk list word dan excel, pak.
+Revisi yg saya lakukan di gdoc dan spreadsheet: 
+1. menghapus "2 Buah Hand Valve 6mm drat ¼ (Pneumatic Trainer)", karena sudah terbeli
+2. menghapus "10 buah Fitting lurus Pneumatic naple selang 4 mm drat ⅛  inch (Pneumatic Trainer)", karena sudah terbeli
+3. menghapus "10 buah Fitting elbow naple selang 4 mm drat ⅛  inch (Pneumatic Trainer)", karena sudah terbeli
+4. menghapus "5 Buah Pilot LED Hijau 10mm DC 24V ", karena setelah pengecekan di lab, modul LED prak.DSP masih bisa berfungsi dan diakali.
+5. mengisi spek, harga, dan link beli "1 buah Motor Valve di Tangki  PCT100"
+6. menghapus "4 buah Fitting Motor Valve PCT100 10mm", karena untuk replacement masih bisa digunakan fitting lama (hanya beli motor valve).
+7. menghapus "2 buah USB Type A 1-2m"
+8. karena penghapusan item diatas saya lakukan penghapusan item tsb list harga gdocs, sehingga harganya sama antara doc dan excel. sebab ada comment di excel harga doc dan excel tidak sesuai.
+9. menambahkan nol pada 45.000.00 pada "PLC AB Control logic 5000 Trainer Kit" karena di excel tertulis 3x15jt=45jt
+10. mengganti 3.500.0003 pada gdocs "Linear Transducer KTC 75mm" menjadi 4x850rb=3.400.000
+
+Sudah saya koreksi harga gdocs dan spreadsheet sudah sama dan sinkron, list part, harga, dan total harga Rp1.068.500.000
+
+Serta saya ingin bertanya, pak. 
+1. Untuk potensiometer ejector injection itu apakah sama dengan linear tranducer KTC 75mm atau kah memang pembelian sepaket?
+2. Lisensi DCS Yokogawa CentumVP tidak perlu harga, pak?
